@@ -1,4 +1,5 @@
-# REPO MOVED TO HERE: https://github.com/abulalarabi/rlprojscara
+# REPO MOVED TO HERE: https://github.com/abulalarabi/rlscara
+
 ## INFO
 ### Dependencies
 - to be added
